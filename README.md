@@ -8,7 +8,7 @@
 
 This project uses **Machine Learning** to analyze airline customer data and predict satisfaction levels.
 
-👉 Helps airlines improve:
+Helps airlines improve:
 
 * Customer experience
 * Service quality
@@ -16,7 +16,7 @@ This project uses **Machine Learning** to analyze airline customer data and pred
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Predict customer satisfaction using features like:
 
@@ -28,7 +28,7 @@ Predict customer satisfaction using features like:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * 🐍 Python
 * 📊 Pandas & NumPy
@@ -39,16 +39,16 @@ Predict customer satisfaction using features like:
 ---
 
 
-## 🧠 System Workflow
+##  System Workflow
 
-1.Load dataset and preprocess data
-2.Handle missing values and encode categorical features
-3.Perform feature scaling (numerical features)
-4.Train classification model
-5.Evaluate model using metrics
-6.Save trained model
-7.Build Streamlit interface for predictions
-8.Accept user input and generate prediction
+* Load dataset and preprocess data
+* Handle missing values and encode categorical features
+* Perform feature scaling (numerical features)
+* Train classification model
+* Evaluate model using metrics
+* Save trained model
+* Build Streamlit interface for predictions
+* Accept user input and generate prediction
 
 
 ---
