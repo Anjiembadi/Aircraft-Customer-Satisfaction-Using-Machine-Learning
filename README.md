@@ -41,14 +41,14 @@ Predict customer satisfaction using features like:
 
 ## 🧠 System Workflow
 
-1 Load dataset and preprocess data
-2 Handle missing values and encode categorical features
-3 Perform feature scaling (numerical features)
-4 Train classification model
-5 Evaluate model using metrics
-6 Save trained model
-7 Build Streamlit interface for predictions
-8 Accept user input and generate prediction
+1.Load dataset and preprocess data
+2.Handle missing values and encode categorical features
+3.Perform feature scaling (numerical features)
+4.Train classification model
+5.Evaluate model using metrics
+6.Save trained model
+7.Build Streamlit interface for predictions
+8.Accept user input and generate prediction
 
 
 ---
