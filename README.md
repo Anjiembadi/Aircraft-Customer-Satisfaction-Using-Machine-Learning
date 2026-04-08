@@ -1,10 +1,10 @@
-# ✈️ Aircraft Customer Satisfaction Prediction
+#  Aircraft Customer Satisfaction Prediction
 
-🚀 A Machine Learning project to predict whether an airline customer is **Satisfied or Not Satisfied** based on various service features.
+ A Machine Learning project to predict whether an airline customer is **Satisfied or Not Satisfied** based on various service features.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses **Machine Learning** to analyze airline customer data and predict satisfaction levels.
 
@@ -30,11 +30,11 @@ Predict customer satisfaction using features like:
 
 ##  Tech Stack
 
-* 🐍 Python
-* 📊 Pandas & NumPy
-* 🤖 Scikit-learn
-* 📈 EDA & Visualization
-* 🌐 Streamlit (for deployment)
+*  Python
+*  Pandas & NumPy
+*  Scikit-learn
+*  EDA & Visualization
+*  Streamlit (for deployment)
 
 ---
 
@@ -54,7 +54,7 @@ Predict customer satisfaction using features like:
 ---
 
 
-## 📊 Model Details
+##  Model Details
 * Problem Type: Classification
 * Target Variable: Customer Satisfaction
 * Algorithms Used:
@@ -63,7 +63,7 @@ Predict customer satisfaction using features like:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 * Accuracy
 * Precision
@@ -71,21 +71,21 @@ Predict customer satisfaction using features like:
 * F1 Score
 
 ---
-## 💡 Key Insights
-* ✨ Inflight service quality strongly impacts satisfaction
-* 💺 Seat comfort is a major deciding factor
-* 🧼 Cleanliness plays a crucial role
-* 📶 WiFi service influences customer perception
+##  Key Insights
+*  Inflight service quality strongly impacts satisfaction
+*  Seat comfort is a major deciding factor
+*  Cleanliness plays a crucial role
+*  WiFi service influences customer perception
 
 ---
 
-## 🖥️ Project Structure
+##  Project Structure
 
 ```
 aircraft-customer-satisfaction-ml/
 │
-├── app.py                 # Streamlit app
-├── model.pkl             # Trained model
+├── app.py                 
+├── model.pkl             
 ├── requirements.txt
 ├── README.md
 └── data/
@@ -94,7 +94,7 @@ aircraft-customer-satisfaction-ml/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/aircraft-customer-satisfaction-ml.git
@@ -105,25 +105,25 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🚀 Try the application here:  
-👉 https://huggingface.co/spaces/Embadianji/Aircraft-Customer-Satisfaction  
+ Try the application here:  
+ https://huggingface.co/spaces/Embadianji/Aircraft-Customer-Satisfaction  
 
 > Deployed using Hugging Face Spaces with an interactive Streamlit interface
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔹 Application Interface
+###  Application Interface
 
 ![UI](output.png)
 
 ---
 
 
-## 💡 Key Insights
+##  Key Insights
 
 * Customers with better inflight service → more satisfied
 * Seat comfort plays a major role
@@ -131,7 +131,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Use Deep Learning models
 * Add real-time prediction API
@@ -140,10 +140,10 @@ streamlit run app.py
 ---
 
 
-## 👨‍💻 Author
+##  Author
 
 **Embadi Anji**
-🚀 Aspiring AI/ML Engineer
+ Aspiring AI/ML Engineer
 
 🔗 GitHub: [https://github.com/your-anjiembadi](https://github.com/Anjiembadi)
 
@@ -151,6 +151,4 @@ streamlit run app.py
 
 ---
 
-## ⭐ If you like this project
 
-Give it a ⭐ on GitHub!
