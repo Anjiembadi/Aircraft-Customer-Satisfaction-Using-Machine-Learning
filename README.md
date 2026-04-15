@@ -1,6 +1,6 @@
 # Aircraft Customer Satisfaction Prediction using Machine Learning
 
-A Machine Learning project that predicts whether an airline customer is **satisfied** or **neutral or dissatisfied** based on service quality, travel details, and onboard experience.
+A Machine Learning project that predicts whether an airline customer is **satisfied** or **dissatisfied** based on service quality, travel details, and onboard experience.
 
 ---
 
