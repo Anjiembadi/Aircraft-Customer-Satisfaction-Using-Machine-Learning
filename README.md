@@ -152,11 +152,10 @@ streamlit run app.py
 ##  Author
 
 **Embadi Anji**
- Aspiring AI/ML Engineer
 
-🔗 GitHub: [https://github.com/your-anjiembadi](https://github.com/Anjiembadi)
+🔗 GitHub: [https://github.com/Anjiembadi](https://github.com/Anjiembadi)
 
-🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/embadi-anji-31122531a/)
+🔗 LinkedIn: [https://www.linkedin.com/in/embadi-anji-31122531a](https://www.linkedin.com/in/embadi-anji-31122531a/)
 
 ---
 
