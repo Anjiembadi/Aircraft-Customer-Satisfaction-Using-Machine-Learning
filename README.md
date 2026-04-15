@@ -227,8 +227,8 @@ Aircraft-Customer-Satisfaction/
 ##  How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/aircraft-customer-satisfaction-ml.git
-cd aircraft-customer-satisfaction-ml
+git clone https://github.com/Anjiembadi/Aircraft-Customer-Satisfaction-Using-Machine-Learning.git
+cd Aircraft-Customer-Satisfaction-Using-Machine-Learning
 pip install -r requirements.txt
 streamlit run app.py
 ```
